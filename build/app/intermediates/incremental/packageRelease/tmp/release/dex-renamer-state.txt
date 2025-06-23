@@ -1,0 +1,4 @@
+#Tue Apr 15 15:26:17 BDT 2025
+base.0=D\:\\Academic\\Flutter\\run_koto_app\\run_koto_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
